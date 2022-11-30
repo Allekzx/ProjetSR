@@ -80,7 +80,7 @@ int main(int argc, char **argv)
     
     // import du tableau de données
 
-    ts_data bibliothèque = lecture()
+
 
     // Création de la boucle infinie
     
